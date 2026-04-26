@@ -4,7 +4,7 @@ export default defineConfig({
   title: '幂等性设计知识库',
   description: '系统化、结构化的幂等性设计技术知识库',
   
-  base: '/idempotency-kb/',
+  base: '/Idempotency-kb/',
   
   // 主题配置
   themeConfig: {
