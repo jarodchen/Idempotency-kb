@@ -1,0 +1,23 @@
+{
+  "name": "idempotency-kb-vitepress",
+  "version": "1.0.0",
+  "description": "幂等性设计知识库 - VitePress 网站",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "idempotency",
+    "knowledge-base",
+    "vitepress",
+    "documentation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.5.0",
+    "vue": "^3.4.0"
+  }
+}

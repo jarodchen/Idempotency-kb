@@ -1,0 +1,51 @@
+/* 自定义样式 */
+
+:root {
+  --vp-c-brand-1: #3b82f6;
+  --vp-c-brand-2: #2563eb;
+  --vp-c-brand-3: #1d4ed8;
+  
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-alt: #f8fafc;
+  --vp-c-bg-elv: #ffffff;
+  
+  --vp-c-text-1: #1e293b;
+  --vp-c-text-2: #64748b;
+  --vp-c-text-3: #94a3b8;
+}
+
+.dark {
+  --vp-c-brand-1: #60a5fa;
+  --vp-c-brand-2: #3b82f6;
+  --vp-c-brand-3: #2563eb;
+  
+  --vp-c-bg: #0f172a;
+  --vp-c-bg-alt: #1e293b;
+  --vp-c-bg-elv: #1e293b;
+  
+  --vp-c-text-1: #f1f5f9;
+  --vp-c-text-2: #cbd5e1;
+  --vp-c-text-3: #94a3b8;
+}
+
+/* 优化代码块样式 */
+.vp-doc pre {
+  border-radius: 8px;
+}
+
+/* 优化表格样式 */
+.vp-doc table {
+  display: table;
+  width: 100%;
+}
+
+/* 优化提示框 */
+.custom-block.tip {
+  border-color: var(--vp-c-brand-1);
+}
+
+/* 侧边栏链接激活样式 */
+.VPSidebarItem.level-1.is-active > .item > .text {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+}
