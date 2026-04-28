@@ -108,6 +108,12 @@ features:
 - ✏️ 改进内容？[提交 PR](https://github.com/your-repo/idempotency-kb/pulls)
 - 💡 建议新功能？[发起讨论](https://github.com/your-repo/idempotency-kb/discussions)
 
+## 🔗 相关链接
+
+- [🏠 返回主站](https://jarodchen.github.io/)
+- [📚 所有知识库](https://jarodchen.github.io/knowledge-base)
+- [💼 项目列表](https://jarodchen.github.io/projects)
+
 ## 📄 许可证
 
 MIT License - 自由使用、修改和分发

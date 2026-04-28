@@ -12,6 +12,7 @@ export default defineConfig({
     
     // 导航栏
     nav: [
+      { text: '🏠 返回主站', link: 'https://jarodchen.github.io/', target: '_self' },
       { text: '首页', link: '/' },
       { text: '基础概念', link: '/01-基础概念/1-什么是幂等性' },
       { text: '核心实现模式', link: '/02-核心实现模式/1-Token机制-基础概念' },
@@ -127,7 +128,7 @@ export default defineConfig({
     // 页脚
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2026 Idempotency KB'
+      copyright: 'Copyright © 2026 <a href="https://jarodchen.github.io/" target="_blank">Jarod Chen</a>'
     },
     
     // 编辑链接
